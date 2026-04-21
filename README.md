@@ -1,13 +1,10 @@
 <h1 align="center">👋 Hi, I'm Fahim Sarkar</h1>
-
 <h3 align="center">💻 PHP Developer @egenslab</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=WordPress+%26+WooCommerce+Specialist;Backend+Developer;Custom+Plugin+Engineer;Clean+Code+Advocate" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devofahim&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=devofahim&label=Views&color=0e75b6&style=flat" />
+  &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00F7FF&center=true&vCenter=true&width=550&lines=WordPress+%26+WooCommerce+Specialist;Backend+Developer;Custom+Plugin+Engineer;Clean+Code+Advocate" />
 </p>
 
 ---
