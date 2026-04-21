@@ -6,7 +6,7 @@
   <h3>💻 PHP Developer @egenslab</h3>
 </p>
 
-<p align="center">
+<p align="left">
 
   <img src="https://komarev.com/ghpvc/?username=devofahim&label=Profile+Views&color=0e75b6&style=flat" />
 
