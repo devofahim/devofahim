@@ -62,9 +62,9 @@ Real-time chat with smooth live updates
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devofahim&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devofahim&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
