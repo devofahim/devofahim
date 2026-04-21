@@ -1,22 +1,45 @@
-<h1 align="center">Hi 👋, I'm Fahim Sarkar</h1>
+<h1 align="center">👋 Hi, I'm Fahim Sarkar</h1>
+
+<h3 align="center">💻 PHP Developer @egenslab</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=PHP+Developer+@egenslab;WordPress+%26+WooCommerce+Expert;Backend+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=WordPress+%26+WooCommerce+Specialist;Backend+Developer;Custom+Plugin+Builder;Clean+Code+Advocate;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devofahim&label=Profile+Views&color=0e75b6&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=devofahim&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💼 PHP Developer at **egenslab**
-- 🌐 WordPress & WooCommerce Specialist  
-- ⚡ Love building dynamic systems & custom plugins  
-- 🎯 Focused on performance, scalability & clean code  
+💻 PHP Developer with a strong focus on building scalable web applications  
+🔧 Skilled in **WordPress, WooCommerce, and custom backend systems**  
+⚡ Passionate about **clean code, performance & real-world solutions**  
+🌱 Currently learning **advanced backend architecture & modern JavaScript**  
 
 ---
+
+### 🛠️ Core Skills
+- **Backend:** PHP, MySQL  
+- **CMS:** WordPress, WooCommerce  
+- **Frontend:** JavaScript, HTML, CSS  
+- **Tools:** Git, GitHub, VS Code, Linux  
+
+---
+
+### 🏆 Featured Work
+| Project | Description | Tech |
+|--------|------------|------|
+| 🚀 Custom WordPress Plugin | Dynamic feature-rich plugin system | PHP, WP API |
+| 💡 WooCommerce Customization | Advanced eCommerce functionality | WooCommerce, PHP |
+| ⚡ AJAX Chat System | Real-time chat with live updates | PHP, jQuery, MySQL |
+
+---
+
+<p align="center">
+  ⚡ <b>"I build systems that are fast, scalable, and actually useful."</b>
+</p>
 
 ### 🛠️ Tech Stack
 <p align="center">
