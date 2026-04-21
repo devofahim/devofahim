@@ -4,14 +4,7 @@
 
 <p align="center">
   <h3>💻 PHP Developer @egenslab</h3>
-</p>
-
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=devofahim&label=Profile+Views&color=0e75b6&style=flat" />
-
-  
-
+    <img src="https://komarev.com/ghpvc/?username=devofahim&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
