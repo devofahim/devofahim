@@ -6,8 +6,9 @@
   <h3>💻 PHP Developer @egenslab</h3>
 </p>
 
-<p align="left">
+<p align="center">
 
+  <img src="https://komarev.com/ghpvc/?username=devofahim&label=Profile+Views&color=0e75b6&style=flat" />
 
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00F7FF&center=true&vCenter=true&width=550&lines=WordPress+%26+WooCommerce+Specialist;Backend+Developer;Custom+Plugin+Engineer;Clean+Code+Advocate" />
 
